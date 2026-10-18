@@ -1,0 +1,13 @@
+node_modules/
+.next/
+next-env.d.ts
+out/
+.sites-runtime/
+.openai/
+.env*
+!.env.example
+*.tsbuildinfo
+*.log
+artifacts/
+playwright-report/
+test-results/
